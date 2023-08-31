@@ -11,3 +11,22 @@ def decode_char(morse_code)
     # Return the corresponding uppercase letter for the given Morse code character
     morse_dic[morse_code]
   end
+
+  def decode_word(morse_word)
+    str = ''
+    splited_arr = morse_word.split
+    splited_arr.each do |character|
+      str += decode_char(character)
+    end
+    str
+  end
+  
+  def decode_sentence(morse_sent)
+    str = ''
+    splited_arr = morse_sent.split('   ')
+    splited_arr.each do |sentence|
+      str += decode_word(sentence)
+      str += ' '
+    end
+    str.strip
+  end
