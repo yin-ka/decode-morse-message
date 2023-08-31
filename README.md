@@ -108,10 +108,11 @@ To run tests, run the following command:
 - GitHub: [@yin-ka](https://github.com/yin-ka)
 - LinkedIn: [@Yusuf Sholotan](https://www.linkedin.com/in/yusuf-sholotan/)
 
+
 👤 **Diana Beki**
 
-- GitHub: [@githubhandle]()
-- LinkedIn: [@LinkedIn]()
+- GitHub: [@githubhandle](https://github.com/DianaBeki)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/diana-beki/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
